@@ -1,0 +1,9 @@
+{
+  "name": "qui-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "js.js",
+  "author": "Qui Meo",
+  "license": "MIT",
+  "private": null
+}
